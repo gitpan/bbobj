@@ -1,5 +1,5 @@
-BigBrother/Object version 0.50
-==============================
+BigBrother/Object version 0.5.1
+===============================
 
 INSTALLATION
 
@@ -15,7 +15,10 @@ To install this module type the following:
 
 DEPENDENCIES
 
-This module has no other required modules or libraries:
+This module has no other required PERL modules or libraries.
+
+This module does require that BigBrother ( http://www.bb4.com/ ) 
+be installed prior to installation of this module.
 
 COPYRIGHT AND LICENCE
 
@@ -25,4 +28,4 @@ This library is free software; you can distribute it and/or
 modify it under the same terms as PERL itself.
 
 
-$Id: README,v 1.1.1.1 2002/07/14 04:13:51 dshanks Exp $
+$Id: README,v 1.2 2002/07/26 02:39:33 dshanks Exp $

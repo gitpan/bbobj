@@ -1,4 +1,4 @@
-## $Id: Object.pm,v 1.2 2002/07/14 06:36:42 dshanks Exp $
+## $Id: Object.pm,v 1.3 2002/07/26 02:28:47 dshanks Exp $
 
 package BigBrother::Object;
 
@@ -8,7 +8,7 @@ use warnings;
 
 use BigBrother::Object::Config;
 
-our $VERSION = '0.50';
+our $VERSION = '0.5.1';
 
 =head1 NAME
 

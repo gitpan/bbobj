@@ -1,4 +1,4 @@
-## $Id: Downtime.pm,v 1.3 2002/07/15 05:11:11 dshanks Exp $
+## $Id: Downtime.pm,v 1.4 2002/07/26 02:30:03 dshanks Exp $
 
 package BigBrother::Object::Downtime;
 
@@ -8,7 +8,7 @@ use warnings;
 
 use Date::Manip qw/ParseDate DateCalc Date_Cmp/;
 
-our $VERSION = '0.50';
+our $VERSION = '0.5.0';
 
 =head1 NAME
 
